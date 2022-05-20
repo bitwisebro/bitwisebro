@@ -1,10 +1,10 @@
-## Hi 👋, my name is Gaurav
+## Hello There! 👋, my name is Gaurav!
 
 
 ##### I am a Programmer with 2+ years of experience building Personal Applications.
 
 - 🔭 I’m currently working on myself!
-- 🌱 I’m currently learning **DDF**
+- 🌱 I’m currently learning **DDF, Data Science**
 - 💬 Ask me about **Java, Python, Selenium, TestNG**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I've Bachelor's Degree in Mechanical Engineering!
@@ -18,5 +18,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RealGJ&layout=compact&exclude_lang=java+r&theme=vue-dark" />
   </a>
 </p>
+
+<div align="center">
+
+### Support Me by Contributing to my Repositories!
+
+</div>
 
 ![Profile views](https://gpvc.arturio.dev/RealGJ) 
