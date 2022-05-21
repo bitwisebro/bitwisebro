@@ -4,7 +4,7 @@
 ##### I am a Programmer with 2+ years of experience building Personal Applications.
 
 - 🔭 I’m currently working on myself!
-- 🌱 I’m currently learning **DDF, Data Science**
+- 🌱 I’m currently learning **Software Development and Testing, DDF, Data Science**
 - 💬 Ask me about **Java, Python, Selenium, TestNG**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I've Bachelor's Degree in Mechanical Engineering!
