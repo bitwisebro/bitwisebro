@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://github.com/RealGJ"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=realgj&show_icons=true&locale=en&layout=compact" alt="realgj"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=realgj&show_icons=true&locale=en" alt="realgj"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=realgj&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="realgj"/>
 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=realgj&" alt="realgj"/>
 </a>
