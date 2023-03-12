@@ -23,9 +23,9 @@
 
 <p align="center">
 
-<a href="https://github.com/bitwisebro"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=realgj&show_icons=true&locale=en&layout=compact" alt="bitwisebro"/>
+<a href="https://github.com/bitwisebro"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitwisebro&show_icons=true&locale=en&layout=compact" alt="bitwisebro"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=realgj&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="bitwisebro"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bitwisebro&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="bitwisebro"/>
 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bitwisebro&" alt="bitwisebro"/>
 </a>
