@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/bitwisebro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@realgj" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bitwisebro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bitwisebro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +25,7 @@
 
 <a href="https://github.com/bitwisebro"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=realgj&show_icons=true&locale=en&layout=compact" alt="bitwisebro"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=realgj&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="realgj"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=realgj&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="bitwisebro"/>
 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bitwisebro&" alt="bitwisebro"/>
 </a>
