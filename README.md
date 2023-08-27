@@ -32,5 +32,6 @@
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/bitwisebro) 
+![Profile views](https://komarev.com/ghpvc/?username=bitwisebro&&style=flat-squar) 
+
 
