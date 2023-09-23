@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **myself!**
 
-- 🌱 I’m currently learning **Spring Boot, React and Android Development**
+- 🌱 I’m currently learning **Something**
 
 - 💬 Ask me about **Java, Python, JS/TS, Selenium, Playwright, Cypress, API's and Other Automation Tools**
 
