@@ -1,4 +1,4 @@
-[![@realgj's Holopin board](https://holopin.io/api/user/board?user=bitwisebro)](https://holopin.io/@bitwisebro)
+[![An image of @bitwisebro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bitwisebro)](https://holopin.io/@bitwisebro)
 
 
 <h1 align="center">Hi 👋, I'm Gaurav!</h1>
